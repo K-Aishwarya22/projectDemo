@@ -1,0 +1,33 @@
+git init
+
+    -> initializes an empty git repository.
+
+git add
+
+    -> used to add files to the staging area.
+
+git reset
+
+    -> used to remove the state of the current working directory and staging area.
+
+git status
+
+    -> used to find the state of the current working directory and staging area.
+
+git commit
+
+    -> the command used to save the projects currently staged changes
+
+git log
+
+    -> command shows the detailed history of all commits
+
+git log --oneline
+
+    -> command shows the one line history of all commits git remote add origin https://github.com/resurgence99/demo.git to add the repository git push origin [branch name]
+
+    -> it is used to upload local repository content to a remote repository. Here github is the remote repository. We are working on the main branch.
+
+We are working on the master branch. git pull origin [branch name]
+
+    -> to pull the current updated file from github.
